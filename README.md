@@ -27,11 +27,11 @@ Here are some details about me:
 
 <p align="left"> 
 &emsp;
-<a href="https://www.tutorialspoint.com/cprogramming">
+<a href="https://go.dev">
     <img alt="GO" src="https://img.shields.io/badge/go-6295cc?style=for-the-badge&logo=go&logoColor=white"/>
 </a>
-<a href="https://www.tutorialspoint.com/cprogramming">
-    <img alt="Proto" src="https://img.shields.io/badge/proto-6295cc?style=for-the-badge&logo=protoc&logoColor=white"/>
+<a href="https://developers.google.com/protocol-buffers">
+    <img alt="Proto" src="https://img.shields.io/badge/proto-6295cc?style=for-the-badge&logo=protobuf&logoColor=white"/>
 </a>
 <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/php-858dbb?style=for-the-badge&logo=php&logoColor=white"/>
@@ -58,7 +58,7 @@ Here are some details about me:
 ### 👉 Operating Systems
 <p align="left"> 
 &emsp;
-<a href="https://www.kali.org"> 
+<a href="https://www.linux.org/"> 
      <img alt="Linux" src="https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=white">
 </a>
 <a href="https://www.microsoft.com/en-us/windows"> 
