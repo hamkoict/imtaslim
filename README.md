@@ -31,7 +31,7 @@ Here are some details about me:
     <img alt="GO" src="https://img.shields.io/badge/go-6295cc?style=for-the-badge&logo=go&logoColor=white"/>
 </a>
 <a href="https://developers.google.com/protocol-buffers">
-    <img alt="Proto" src="https://img.shields.io/badge/php-858dbb?style=for-the-badge&logo=https://www.pikpng.com/pngl/m/501-5019544_protocol-buffers-google-developers-logo-svg-clipart.png&logoColor=white"/>
+    <img alt="Proto" src="https://img.shields.io/badge/Protocol Buffers-858dbb?style=for-the-badge&logo=https://www.pikpng.com/pngl/m/501-5019544_protocol-buffers-google-developers-logo-svg-clipart.png&logoColor=white"/>
 </a>
 <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/php-858dbb?style=for-the-badge&logo=php&logoColor=white"/>
