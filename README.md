@@ -70,7 +70,7 @@ Here are some details about me:
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005d86?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="https://www.postgres.com/"><img alt="MySQL" src="https://img.shields.io/badge/postgres-005d86?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="https://www.postgresql.org"><img alt="postgresql" src="https://img.shields.io/badge/postgresql-005d86?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
