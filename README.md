@@ -91,4 +91,5 @@ Here are some details about me:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtaslim">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=imtaslim&show_icons=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maainul&" alt="maainul" />
 
