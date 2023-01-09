@@ -90,7 +90,7 @@ Here are some details about me:
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imtaslim) 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imtaslim&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/imtaslim/github-readme-activity-graph)
 
 ![](https://github-readme-stats.vercel.app/api?username=imtaslim&hide_border=false&include_all_commits=true&count_private=true)
 
