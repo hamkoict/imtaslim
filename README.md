@@ -99,7 +99,7 @@ Here are some details about me:
 
 ![](https://github-readme-stats.vercel.app/api?username=imtaslim&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtaslim">
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtaslim">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=imtaslim&show_icons=true"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtaslim&"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtaslim&"/> -->
 
