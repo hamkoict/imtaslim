@@ -92,8 +92,7 @@ Here are some details about me:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imtaslim) 
 
-![](https://github-readme-stats.vercel.app/api?username=imtaslim&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=imtaslim&hide_border=false&include_all_commits=true&count_private=true)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtaslim&"/><br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtaslim">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtaslim&"/>
-
