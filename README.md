@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaikh Taslim Ahmed</h1>
-<h3 align="center">Junior BackEnd Developer</h3>
+<h3 align="center">BackEnd Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtaslim&label=Profile%20views&color=0e75b6&style=flat" alt="imtaslim" /> </p>
+![Profile views](https://gpvc.arturio.dev/imtaslim)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtaslim" alt="imtaslim" /></a> </p>
 
