@@ -89,8 +89,7 @@ Here are some details about me:
 <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </p>
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imtaslim&line=24292e&point=24292e&area=true&hide_border=true)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imtaslim&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-stats.vercel.app/api?username=imtaslim&hide_border=false&include_all_commits=true&count_private=true)
 
