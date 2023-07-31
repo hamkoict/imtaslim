@@ -2,7 +2,7 @@
 <h3 align="center">BackEnd Developer</h3>
 
 ![Profile View](https://komarev.com/ghpvc/?username=imtaslim)
-![Profile View](https://komarev.com/ghpvc/?usename=laravel)
+![Profile View](https://komarev.com/ghpvc/?username=laravel)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtaslim" alt="imtaslim" /></a> </p>
 
